@@ -2,11 +2,10 @@
 Stock prediction model using LSTM models. 
 
 # Full roadmap of changes/implementation
-1. Data Loading and Preparation
-
+~~1. Data Loading and Preparation
 Description: Pull historical stock price data from Yahoo Finance for multiple stocks. Format data into sequences of 60 days to prepare it for training in an LSTM model.
 
-Key Files/Modules: data_loader.py for data loading, main.py for orchestrating data preparation.
+Key Files/Modules: data_loader.py for data loading, main.py for orchestrating data preparation.~~
 
 2. Feature Engineering
 
